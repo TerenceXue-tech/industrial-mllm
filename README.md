@@ -40,18 +40,16 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 🔧 Fine-tuning-based Industrial MLLMs
 
-- [Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0]()  
-  *Tags*: Fault Detection
 
 - [AAD-LLM: Adaptive Anomaly Detection Using Large Language Models]()  
-  *Tags*: Anomaly Detection
-
-- [RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration]()  
   *Tags*: Anomaly Detection
 
 - [面向旋转机械装备的智能故障诊断通用基础模型研究]()  
   *Tags*: Mechanical Fault Diagnosis
 
+- [面向机械设备通用健康管理的智能运维大模型]()  
+  *Tags*: Health Management
+  
 - [Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing]()  
   *Tags*: Bearing RUL Prediction
 
@@ -70,36 +68,37 @@ A curated list of key papers on the industrial applications of multimodal large 
 - [AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models]()  
   *Tags*: Anomaly Detection
 
+- [FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models]()  
+  *Tags*: Fault Diagnosis
+
+- [Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0]()  
+  *Tags*: Fault Detection
 ---
 
 ## 🔍 RAG-based Industrial MLLMs
 
-- [TIMERAG]()  
+- [TIMERAG: BOOSTING LLM TIME SERIES FORECASTING VIA RETRIEVAL-AUGMENTED GENERATION]()  
   *Tags*: Time-Series Forecasting
 
 - [TIMERAF: RETRIEVAL-AUGMENTED FOUNDATION MODEL FOR ZERO-SHOT TIME SERIES FORECASTING]()  
   *Tags*: Time-Series Forecasting
 
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications]()  
-  *Tags*: Multimodal Applications
+  *Tags*: Smart Manufacturing
 
-- [LLM-R: 一种结合层次代理和RAG的域自适应维护方案]()  
-  *Tags*: Adaptive Maintenance
-
+- [RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration]()  
+  *Tags*: Anomaly Detection
+  
 - [Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing]()  
-  *Tags*: Domain Q&A
+  *Tags*: Smart Manufacturing
 
 - [Improving knowledge management in building engineering with hybrid retrieval-augmented generation framework]()  
-  *Tags*: Knowledge Management
-
-- [面向机械设备通用健康管理的智能运维大模型]()  
-  *Tags*: Health Management
+  *Tags*: Building Engineering
 
 - [LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG]()  
-  *Tags*: Adaptive Maintenance
+  *Tags*: Maintenance Scheme
 
-- [FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models]()  
-  *Tags*: Fault Diagnosis
+
 
 
 ---
