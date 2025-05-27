@@ -41,7 +41,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 ## 🔧 Fine-tuning-based Industrial MLLMs
 
 - [StictionGPT: Detecting Valve Stiction in Process Control Loops using Large Vision Language Model](https://dx.doi.org/10.2139/ssrn.5265092)  
-  *Application/Task*: Anomaly Detection
+  *Application/Task*: Process Industry, Stiction Detection
 
 - [AAD-LLM: Adaptive Anomaly Detection Using Large Language Models]()  
   *Application/Task*: Anomaly Detection
