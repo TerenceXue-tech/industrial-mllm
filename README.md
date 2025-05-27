@@ -18,9 +18,11 @@ A curated list of key papers on the industrial applications of multimodal large 
 ## 📖 Survey Papers
 
 - [Foundation Models for the Process Industry: Challenges and Opportunities]()
+  
   *Tags*: Process Industry
 
 - [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing]()
+  
   *Tags*: Intelligent Manufacture
 
 - [工业大模型: 体系架构、关键技术与典型应用]()
