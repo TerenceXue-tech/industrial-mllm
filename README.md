@@ -26,12 +26,15 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Tags*: Intelligent Manufacture
 
 - [工业大模型: 体系架构、关键技术与典型应用]()
+  
   *Tags*: 工业大模型
   
 - [ChatGPT-Like Large-Scale Foundation Models forPrognostics and Health Management: A Survey andRoadmaps]()
+  
   *Tags*: Health Management
 
 - [An Outline of Prognostics and Health Management Large Model:Concepts, Paradigms, and Challenges]()
+  
   *Tags*: Prognostics and Health Management
 ---
 
