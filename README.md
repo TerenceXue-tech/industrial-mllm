@@ -1,7 +1,7 @@
 # 📚 PaperList: Industrial Applications of Multimodal Large Models
 
-A curated list of key papers on the industrial applications of multimodal large models, covering surveys, fine-tuning approaches, RAG-based systems, and more.
 ![Banner](cover.png)
+A curated list of key papers on the industrial applications of multimodal large models, covering surveys, fine-tuning approaches, RAG-based systems, and more.
 ---
 
 ## 📖 Survey Papers
