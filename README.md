@@ -17,19 +17,19 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 📖 Survey Papers
 
-- [Foundation Models for the Process Industry: Challenges and Opportunities]()
+- [Foundation Models for the Process Industry: Challenges and Opportunities]()  
   *Application/Task*: Process Industry
 
-- [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing]()
+- [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing]()  
   *Application/Task*: Intelligent Manufacture
 
-- [工业大模型: 体系架构、关键技术与典型应用]()
+- [工业大模型: 体系架构、关键技术与典型应用]()  
   *Application/Task*: 工业
   
-- [ChatGPT-Like Large-Scale Foundation Models forPrognostics and Health Management: A Survey andRoadmaps]()
+- [ChatGPT-Like Large-Scale Foundation Models forPrognostics and Health Management: A Survey andRoadmaps]()  
   *Application/Task*: Health Management
 
-- [An Outline of Prognostics and Health Management Large Model:Concepts, Paradigms, and Challenges]()
+- [An Outline of Prognostics and Health Management Large Model:Concepts, Paradigms, and Challenges]()  
   *Application/Task*: Prognostics and Health Management
 ---
 
