@@ -35,6 +35,12 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 🔧 Fine-tuning-based Industrial MLLMs
 
+- [AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models]()  
+  *Application/Task*: Anomaly Detection
+
+- [FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models]()  
+  *Application/Task*: Fault Diagnosis
+
 - [StictionGPT: Detecting Valve Stiction in Process Control Loops using Large Vision Language Model](https://dx.doi.org/10.2139/ssrn.5265092)  
   *Application/Task*: Process Industry, Stiction Detection
 
@@ -62,11 +68,6 @@ A curated list of key papers on the industrial applications of multimodal large 
 - [LLM-based framework for bearing fault diagnosis]()  
   *Application/Task*: Bearing Diagnosis
 
-- [AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models]()  
-  *Application/Task*: Anomaly Detection
-
-- [FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models]()  
-  *Application/Task*: Fault Diagnosis
 
 - [Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0]()  
   *Application/Task*: Fault Detection
