@@ -7,8 +7,9 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 📑 Table of Contents
 
+- [📊 Benchmark](#-benchmark)
 - [📖 Survey Papers](#-survey-papers)
-- [🔧 Fine-tuning-based Industrial MLLMs](#-fine-tuning-based-industrial-mllms)
+- [🔧 SFT-based Industrial MLLMs](#-sft-based-industrial-mllms)
 - [🔍 RAG-based Industrial MLLMs](#-rag-based-industrial-mllms)
 - [📌 Other Relevant Resources](#-other-relevant-resources)
 - [🤝 Contributing](#-contributing)
