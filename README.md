@@ -75,33 +75,33 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 🔍 RAG-based Industrial MLLMs
 
-- [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models]([https://ieeexplore.ieee.org/abstract/document/10889933/](https://arxiv.org/abs/2505.13828))  
-  *Application/Task*: Anomaly Detection and Classification, Additive Manufacturing (3D Printing)
-
 - [TIMERAG: BOOSTING LLM TIME SERIES FORECASTING VIA RETRIEVAL-AUGMENTED GENERATION](https://ieeexplore.ieee.org/abstract/document/10889933/)  
   *Application/Task*: Time-Series Forecasting
 
 - [TIMERAF: RETRIEVAL-AUGMENTED FOUNDATION MODEL FOR ZERO-SHOT TIME SERIES FORECASTING](https://arxiv.org/abs/2412.20810)  
   *Application/Task*: Time-Series Forecasting
 
-- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)  
-  *Application/Task*: Smart Manufacturing
 
 - [RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](https://arxiv.org/abs/2503.02800)  
   *Application/Task*: Anomaly Detection
   
+
+- [LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG](https://arxiv.org/abs/2411.04476)  
+  *Application/Task*: Maintenance Scheme
+
+- [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](https://arxiv.org/abs/2505.13828)
+  *Application/Task*: Anomaly Detection and Classification, Additive Manufacturing (3D Printing)
+
 - [Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing](https://www.sciencedirect.com/science/article/pii/S1474034625001053)  
   *Application/Task*: Smart Manufacturing
 
 - [Improving knowledge management in building engineering with hybrid retrieval-augmented generation framework](https://www.sciencedirect.com/science/article/pii/S2352710225004255)  
   *Application/Task*: Building Engineering
 
-- [LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG](https://arxiv.org/abs/2411.04476)  
-  *Application/Task*: Maintenance Scheme
+- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)  
+  *Application/Task*: Smart Manufacturing
 
-
-
-
+  
 ---
 
 ## 📌 Other Relevant Resources
