@@ -75,6 +75,9 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ## 🔍 RAG-based Industrial MLLMs
 
+- [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models]([https://ieeexplore.ieee.org/abstract/document/10889933/](https://arxiv.org/abs/2505.13828))  
+  *Application/Task*: Anomaly Detection and Classification
+
 - [TIMERAG: BOOSTING LLM TIME SERIES FORECASTING VIA RETRIEVAL-AUGMENTED GENERATION](https://ieeexplore.ieee.org/abstract/document/10889933/)  
   *Application/Task*: Time-Series Forecasting
 
