@@ -20,6 +20,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline](https://ojs.aaai.org/index.php/AAAI/article/view/33124)  
   *Application/Task*: Zero-Shot Learning,  Industrial Defect Detection
+  *Journal/Conference*: AAAI 2025
 
 ## 📖 Survey Papers
 
@@ -43,12 +44,15 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/27963)  
   *Application/Task*: Anomaly Detection
+  *Journal/Conference*: AAAI 2024
 
 - [FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models](https://arxiv.org/abs/2502.15481)  
   *Application/Task*: Fault Diagnosis
+    *Journal/Conference*: Preprint
 
 - [StictionGPT: Detecting Valve Stiction in Process Control Loops using Large Vision Language Model](https://dx.doi.org/10.2139/ssrn.5265092)  
   *Application/Task*: Process Industry, Stiction Detection
+*Journal/Conference*: Preprint
 
 - [AAD-LLM: Adaptive Anomaly Detection Using Large Language Models](https://ieeexplore.ieee.org/abstract/document/10825679/)  
   *Application/Task*: Anomaly Detection
@@ -61,6 +65,7 @@ A curated list of key papers on the industrial applications of multimodal large 
   
 - [Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing](https://arxiv.org/abs/2501.07191)  
   *Application/Task*: Bearing RUL Prediction
+  *Journal/Conference*: Preprint
 
 - [Leveraging large self-supervised time-series models for transferable diagnosis in cross-aircraft type Bleed Air System](https://www.sciencedirect.com/science/article/pii/S1474034625001685)  
   *Application/Task*: Aircraft, Time-Series Diagnosis
@@ -73,10 +78,16 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [LLM-based framework for bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0888327024010252)  
   *Application/Task*: Bearing Diagnosis
+  *Journal/Conference*: MSSP
 
 
 - [Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0](https://www.mdpi.com/2079-9292/13/24/4912)  
   *Application/Task*: Fault Detection
+
+- [Leveraging Vision Foundation Model via PConv-Based Fine-Tuning with Automated Prompter for Defect Segmentation](https://www.mdpi.com/1424-8220/25/8/2417)  
+  *Application/Task*: Defect Segmentation
+  *Journal/Conference*: Sensors
+
 ---
 
 ## 🔍 RAG-based Industrial MLLMs
@@ -86,17 +97,21 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [TIMERAF: RETRIEVAL-AUGMENTED FOUNDATION MODEL FOR ZERO-SHOT TIME SERIES FORECASTING](https://arxiv.org/abs/2412.20810)  
   *Application/Task*: Time-Series Forecasting
+  *Journal/Conference*: Preprint
 
 
 - [RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](https://arxiv.org/abs/2503.02800)  
   *Application/Task*: Anomaly Detection
+  *Journal/Conference*: Preprint
   
 
 - [LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG](https://arxiv.org/abs/2411.04476)  
   *Application/Task*: Maintenance Scheme
+  *Journal/Conference*: Preprint
 
 - [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](https://arxiv.org/abs/2505.13828)
   *Application/Task*: Anomaly Detection and Classification, Additive Manufacturing (3D Printing)
+  *Journal/Conference*: Preprint
 
 - [Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing](https://www.sciencedirect.com/science/article/pii/S1474034625001053)  
   *Application/Task*: Smart Manufacturing
@@ -106,6 +121,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)  
   *Application/Task*: Smart Manufacturing
+  *Journal/Conference*: Preprint
 
   
 ---
