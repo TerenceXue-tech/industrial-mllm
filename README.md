@@ -15,6 +15,11 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 ---
 
+## 📊 Benchmark
+
+- [Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline](https://ojs.aaai.org/index.php/AAAI/article/view/33124)  
+  *Application/Task*: Zero-Shot Learning,  Industrial Defect Detection
+
 ## 📖 Survey Papers
 
 - [Foundation Models for the Process Industry: Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2095809925001766)  
@@ -33,7 +38,7 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Application/Task*: Prognostics and Health Management
 ---
 
-## 🔧 Fine-tuning-based Industrial MLLMs
+## 🔧 SFT-based Industrial MLLMs
 
 - [AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/27963)  
   *Application/Task*: Anomaly Detection
