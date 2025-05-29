@@ -29,15 +29,15 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Journal/Conference*: Engineering (IF=10.1) 
  
 - [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing](https://www.sciencedirect.com/science/article/pii/S0736584524001704)  
-  *Application/Task*: Intelligent Manufacture
+  *Application/Task*: Intelligent Manufacture  
   *Journal/Conference*: Robotics and Computer-Integrated Manufacturing (IF=9.1)  
 
 - [工业大模型: 体系架构、关键技术与典型应用](http://scis.scichina.com/cn/2024/SSI-2024-0185.pdf)  
-  *Application/Task*: Industrial
+  *Application/Task*: Industrial  
   *Journal/Conference*: 中国科学 : 信息科学 (IF=7.3)  
   
 - [ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps](https://www.sciencedirect.com/science/article/pii/S0951832023007640)  
-  *Application/Task*: Health Management
+  *Application/Task*: Health Management  
   *Journal/Conference*: Reliability Engineering & System Safety (IF=9.4)  
 
 - [An Outline of Prognostics and Health Management Large Model:Concepts, Paradigms, and Challenges](https://www.sciencedirect.com/science/article/pii/S088832702500384X)  
