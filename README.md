@@ -25,7 +25,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 ## 📖 Survey Papers
 
 - [Foundation Models for the Process Industry: Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2095809925001766)  
-  *Application/Task*: Process Industry
+  *Application/Task*: Process Industry  
   *Journal/Conference*: Engineering (IF=10.1) 
  
 - [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing](https://www.sciencedirect.com/science/article/pii/S0736584524001704)  
