@@ -132,7 +132,7 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Application/Task*: Maintenance Scheme  
   *Journal/Conference*: Preprint
 
-- [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](https://arxiv.org/abs/2505.13828)
+- [Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models](https://arxiv.org/abs/2505.13828)  
   *Application/Task*: Anomaly Detection and Classification, Additive Manufacturing (3D Printing)  
   *Journal/Conference*: Preprint
 
