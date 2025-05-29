@@ -62,15 +62,15 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Journal/Conference*: Preprint
 
 - [AAD-LLM: Adaptive Anomaly Detection Using Large Language Models](https://ieeexplore.ieee.org/abstract/document/10825679/)  
-  *Application/Task*: Anomaly Detection
+  *Application/Task*: Anomaly Detection  
   *Journal/Conference*: IEEE BigData (CCF-C)
 
 - [面向旋转机械装备的智能故障诊断通用基础模型研究](https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-_SOa3t98F1Fgwhq-54UDkVaBXA_PkataWKlLsM4R1_-6TJGPXHlEIFqJQjRhuzhoslrnBxa0v6RpLrioDKVAVjVBl1r8BS51L2hCZlM1nrBc16W_tfzoJH_WamkqFWDALB3KjbwfupTnwDdmIczDkov5xiLo1WH4UFEoN79wucQ==&uniplatform=NZKPT&language=CHS)  
-  *Application/Task*: Mechanical Fault Diagnosis
+  *Application/Task*: Mechanical Fault Diagnosis  
   *Journal/Conference*: 西安交通大学学报 (IF=1.8)  
 
 - [面向机械设备通用健康管理的智能运维大模型](https://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2025.06.001)  
-  *Application/Task*: Health Management
+  *Application/Task*: Health Management  
   *Journal/Conference*: 机械工程学报 (IF=4.3)  
   
 - [Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing](https://arxiv.org/abs/2501.07191)  
@@ -78,15 +78,15 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Journal/Conference*: Preprint
 
 - [Leveraging large self-supervised time-series models for transferable diagnosis in cross-aircraft type Bleed Air System](https://www.sciencedirect.com/science/article/pii/S1474034625001685)  
-  *Application/Task*: Aircraft, Time-Series Diagnosis
+  *Application/Task*: Aircraft, Time-Series Diagnosis  
   *Journal/Conference*: Advanced Engineering Informatics (IF=8.0)  
 
 - [Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring](https://ieeexplore.ieee.org/abstract/document/10666846/)  
-  *Application/Task*: Industrial Visual Monitoring
+  *Application/Task*: Industrial Visual Monitoring  
   *Journal/Conference*: IEEE Transactions on Industrial Informatics (IF=2.8) 
 
 - [FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis](https://www.sciencedirect.com/science/article/pii/S0098135425001565)  
-  *Application/Task*: Fault Diagnosis
+  *Application/Task*: Fault Diagnosis  
    *Journal/Conference*: Computers & Chemical Engineering (IF=3.9) 
 
 - [LLM-based framework for bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0888327024010252)  
@@ -95,7 +95,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 
 - [Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0](https://www.mdpi.com/2079-9292/13/24/4912)  
-  *Application/Task*: Fault Detection
+  *Application/Task*: Fault Detection  
    *Journal/Conference*: Electronics (IF=2.6) 
 
 - [Leveraging Vision Foundation Model via PConv-Based Fine-Tuning with Automated Prompter for Defect Segmentation](https://www.mdpi.com/1424-8220/25/8/2417)  
@@ -137,11 +137,11 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Journal/Conference*: Preprint
 
 - [Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing](https://www.sciencedirect.com/science/article/pii/S1474034625001053)  
-  *Application/Task*: Smart Manufacturing
+  *Application/Task*: Smart Manufacturing  
    *Journal/Conference*: Advanced Engineering Informatics (IF=8.0) 
 
 - [Improving knowledge management in building engineering with hybrid retrieval-augmented generation framework](https://www.sciencedirect.com/science/article/pii/S2352710225004255)  
-  *Application/Task*: Building Engineering
+  *Application/Task*: Building Engineering  
    *Journal/Conference*: Journal of Building Engineering (IF=6.7) 
 
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)  
