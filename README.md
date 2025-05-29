@@ -67,7 +67,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [面向旋转机械装备的智能故障诊断通用基础模型研究](https://kns.cnki.net/kcms2/article/abstract?v=X7jC3qydZ5-_SOa3t98F1Fgwhq-54UDkVaBXA_PkataWKlLsM4R1_-6TJGPXHlEIFqJQjRhuzhoslrnBxa0v6RpLrioDKVAVjVBl1r8BS51L2hCZlM1nrBc16W_tfzoJH_WamkqFWDALB3KjbwfupTnwDdmIczDkov5xiLo1WH4UFEoN79wucQ==&uniplatform=NZKPT&language=CHS)  
   *Application/Task*: Mechanical Fault Diagnosis
-  *Journal/Conference*: 西安交通大学学报 (IF=1.81)  
+  *Journal/Conference*: 西安交通大学学报 (IF=1.8)  
 
 - [面向机械设备通用健康管理的智能运维大模型](https://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2025.06.001)  
   *Application/Task*: Health Management
@@ -102,9 +102,9 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Application/Task*: Defect Segmentation  
   *Journal/Conference*: Sensors (IF=3.4)
 
-  - [基于大模型的设备故障知识图谱自动构建方法](http://www.c-a-m.org.cn/CN/10.3969/j.issn.1006-2475.2024.11.008)  
-  *Application/Task*: Automatic Construction of Equipment Failure Knowledge Graphs
-  *Journal/Conference*: 计算机与现代化
+- [基于大模型的设备故障知识图谱自动构建方法](http://www.c-a-m.org.cn/CN/10.3969/j.issn.1006-2475.2024.11.008)  
+ *Application/Task*: Automatic Construction of Equipment Failure Knowledge Graphs  
+ *Journal/Conference*: 计算机与现代化
 
 - [Generalized domain prompt learning for accessible scientific vision-language models](https://www.sciencedirect.com/science/article/pii/S2950160125000166)  
   *Application/Task*: Multiple scientific fields (such as remote sensing, medical imaging, geology, fluid mechanics, etc.)  
