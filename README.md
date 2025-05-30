@@ -110,6 +110,12 @@ A curated list of key papers on the industrial applications of multimodal large 
   *Application/Task*: Multiple scientific fields (such as remote sensing, medical imaging, geology, fluid mechanics, etc.)  
   *Journal/Conference*: Nexus （Cell Press）
 
+
+- [DiagLLM: multimodal reasoning with large language model for explainable bearing fault diagnosis](https://link.springer.com/article/10.1007/s11432-024-4333-7)  
+  *Application/Task*: Bearing fault diagnosis    
+  *Journal/Conference*: Science China Information Sciences (IF=7.3)
+
+  
 ---
 
 ## 🔍 RAG-based Industrial MLLMs
