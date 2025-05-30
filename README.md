@@ -160,6 +160,8 @@ A curated list of key papers on the industrial applications of multimodal large 
 ## 📌 Other Relevant Resources
 
 
+- [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application)  
+
 
 ---
 
