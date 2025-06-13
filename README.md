@@ -24,7 +24,7 @@ A curated list of key papers on the industrial applications of multimodal large 
 
 - [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)  
 *Application/Task*: Understanding and Reasoning of Time Series  
-*Journal/Conference*: Preprint
+*Journal/Conference*: VLDB 2025
 
 ## 📖 Survey Papers
 
